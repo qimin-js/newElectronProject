@@ -1,0 +1,9 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+canvas {
+    margin-top: 3px;
+    border-radius: 10px;
+}
